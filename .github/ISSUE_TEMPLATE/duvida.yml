@@ -1,0 +1,38 @@
+name: ❓ Dúvida
+description: Travou em algum passo? Abre aqui que a gente te ajuda!
+title: "[DÚVIDA] "
+labels: ["dúvida", "ajuda"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Não se preocupe! Todo mundo trava em algum momento. Descreva sua dúvida abaixo com o máximo de detalhes possível.
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Qual é a sua dúvida?
+      description: Descreva onde você travou
+      placeholder: "Ex: Na hora de fazer o git push, aparece um erro dizendo..."
+    validations:
+      required: true
+  - type: textarea
+    id: erro
+    attributes:
+      label: Mensagem de erro (se houver)
+      description: Cole aqui a mensagem de erro que apareceu
+      render: shell
+  - type: dropdown
+    id: passo
+    attributes:
+      label: Em qual passo você travou?
+      options:
+        - Fork
+        - Clone
+        - Criar Branch
+        - Criar o arquivo de perfil
+        - Commit
+        - Push
+        - Pull Request
+        - Outro
+    validations:
+      required: true
