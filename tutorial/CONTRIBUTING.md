@@ -158,7 +158,3 @@ Antes de abrir o Pull Request, verifique:
 Se travar em algum passo, chama a professora ou abre uma [Issue](../../issues) descrevendo sua dúvida. Você não está sozinho(a) 💙
 
 ---
-
-<div align="center">
-  Feito com 💙 por <strong>[Caroline Teixeira](https://github.com/Caroline-Teixeira)</strong>
-</div>
