@@ -73,5 +73,5 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 ---
 
 <div align="center">
-  Feito com 💙 por <strong>[Caroline Teixeira](https://github.com/Caroline-Teixeira)</strong>
+  Feito com 💙 por <a href="https://github.com/Caroline-Teixeira">Caroline</a>
 </div>
