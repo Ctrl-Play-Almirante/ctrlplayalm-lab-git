@@ -67,10 +67,10 @@ cd ctrlplayalm-lab-git
 > A **branch** é como um "rascunho" isolado para a sua contribuição, sem afetar o projeto principal.
 
 ```bash
-git checkout -b feat/community/seu-usuario
+git checkout -b feat/community/nome_da_branch
 ```
 
-> ⚠️ Substitua `seu-usuario` pelo seu nome de usuário do GitHub!
+> ⚠️ Substitua `nome_da_branch` pelo seu nome de usuário do GitHub!. Ex: caroline_teixeira
 
 ---
 
@@ -115,7 +115,7 @@ git commit -m "feat: add seu-usuario profile"
 #### Passo 6 — Envie para o GitHub (Push)
 
 ```bash
-git push origin feat/community/seu-usuario
+git push origin feat/community/nome_da_branch
 ```
 
 Se você usou **HTTPS** no clone, o terminal vai pedir:
@@ -127,6 +127,7 @@ Password: SEU-TOKEN
 
 > ⚠️ O GitHub não aceita mais senha comum. No campo **Password**, cole um **Personal Access Token**, gerado em:
 > **GitHub → Settings → Developer Settings → Personal Access Tokens → Tokens (classic)**
+> Para mais detalhes veja: [Configuração Git](GIT_CONFIG.md)
 
 Se você usou **SSH** no clone, o push não pedirá nenhuma senha.
 
