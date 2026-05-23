@@ -111,7 +111,3 @@ git clone git@github.com:SEU-USUARIO/ctrlplayalm-lab-git.git
 E o `git push` **não pedirá senha nem token**. 🎉
 
 ---
-
-<div align="center">
-  Feito com 💙 por <strong>Caroline Teixeira</strong>
-</div>
