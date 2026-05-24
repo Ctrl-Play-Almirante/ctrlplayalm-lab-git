@@ -34,13 +34,15 @@ O GitHub não aceita mais senha comum. Você precisa de um **Token**:
 4. Dê um nome, defina a validade e marque a permissão **repo**
 5. Clique em **Generate token** e **copie o token** (ele só aparece uma vez!)
 
-### 4. Na hora do Push
+### 4. Na hora do Push 
 
 ```bash
 git push -u origin main
 # Username: meu-usuario
 # Password: cole-seu-token-aqui
 ```
+Em caso de clone de repositório: siga o passo-a-passo aqui: [CONTRIBUTING.md](CONTRIBUTING.md)
+
 
 ---
 
