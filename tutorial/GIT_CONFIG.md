@@ -11,6 +11,7 @@
 1. Acesse [https://git-scm.com/downloads](https://git-scm.com/downloads) e baixe o instalador
 2. Execute e clique **Next** em todas as etapas
 3. Ao final, abra o **Git Bash**
+4. Dúvidas, assista este vídeo: https://www.youtube.com/watch?v=pSJz4DzvbFI
 
 ### 2. No início de cada aula
 
