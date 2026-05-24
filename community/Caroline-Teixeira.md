@@ -5,8 +5,8 @@
 
 - 🎮 Instrutora da Ctrl+Play 
 - 💻 Aprendendo: Python, Banco de Dados, UX e Moodle
-- 🚀 Estou na Ctrl+Play porque: Quero ensinar programação para crianças e adolescentes e adultos com interesse em tecnlogia
-- ⚡ Fun fact: Eu não gostava de programar na adolescencia Hahah XD
+- 🚀 Estou na Ctrl+Play porque: Quero ensinar programação para crianças e adolescentes e adultos com interesse em tecnologia
+- ⚡ Fun fact: Eu não gostava de programar na adolescencia, mas me identifiquei depois de adulta💙 
 - Eu 💙 : comida, jogos e animes
 
 
