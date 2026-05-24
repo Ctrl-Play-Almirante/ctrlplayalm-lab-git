@@ -35,6 +35,7 @@ Caso tenha dúvida em configuar GIT e Token, leia o passo-a-passo aqui: [Configu
 > **Clonar** significa baixar o projeto para a sua máquina.
 
 No seu fork (na **sua** conta do GitHub), clique no botão verde **Code** e copie a URL.
+Caso tenha dúvida em configuar GIT e Token, leia o passo-a-passo aqui: [Configuração do Git](GIT_CONFIG.md)
 
 #### Opção A — HTTPS (em computadores compartilhados)
 
